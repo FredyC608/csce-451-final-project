@@ -8,6 +8,7 @@ This repository contains a formal analysis of the WannaCry ransomware "Encryptor
 ## Contents
 * `final-project-wannacry.pdf`: The full analysis report.
 * `[Malware Sample Hash/Name]`: (Note: Handle live malware with caution).
+* `CSCE451_652_Final_Project_Fall_2025.docx`: The rubric for the final project.
 
 ## Tools Used
 * **Ghidra** (Static Analysis, Disassembly)
