@@ -5,11 +5,11 @@
 
 This repository contains a formal analysis of the WannaCry ransomware "Encryptor" payload. The goal was to reverse engineer the sample to understand its persistence mechanisms, encryption strategy, and network behavior without relying on external reports.
 
-## 📂 Contents
+## Contents
 * `final-project-wannacry.pdf`: The full analysis report.
 * `[Malware Sample Hash/Name]`: (Note: Handle live malware with caution).
 
-## 🔧 Tools Used
+## Tools Used
 * **Ghidra** (Static Analysis, Disassembly)
 * **x32dbg** (Dynamic Debugging)
 * **Wireshark** (Network Traffic Analysis)
@@ -17,7 +17,7 @@ This repository contains a formal analysis of the WannaCry ransomware "Encryptor
 * **CFF Explorer** (PE Header Analysis)
 * **InetSim** (Network Simulation)
 
-## 📝 Retrospective & Future Improvements
+## Retrospective & Future Improvements
 While the project was successful and met the course requirements, the following areas were identified for improvement to meet professional standards:
 
 ### 1. Static vs. Dynamic Analysis Consistency
